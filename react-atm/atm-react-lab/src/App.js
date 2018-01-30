@@ -4,6 +4,7 @@ import logo from './ga.png';
 import Account from './Account';
 
 class App extends Component {
+
   render() {
     return (
       <div id="content">
